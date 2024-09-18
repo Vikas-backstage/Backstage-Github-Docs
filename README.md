@@ -56,21 +56,24 @@ You will be redirected to browser where it may ask for your github password to c
 
 After entering password, it will ask you to enter the name for the github app. Make sure name to be unique globally
 
-![Github Apps Setup 2](https://github.com/user-attachments/assets/dcf8f18b-d070-4676-a6d0-49b9812a1259)
-
+![Github Apps Setup 2](https://github.com/user-attachments/assets/60048c70-c2b4-4100-85cf-f091530c01a3)
 
 `
 Hit create github app for <Your-Org-Name>
 `
 
-After that it will ask you to install github app on <your-org-name>
+After that it will ask you to install github app on `<your-org-name>`.
 Remain everything default and hit install.
 
-![Github Apps Setup 3](https://github.com/user-attachments/assets/f25183b5-6882-4398-b574-546311b2a584)
+
+![Github Apps Setup 3](https://github.com/user-attachments/assets/fda6bb58-57a0-4643-84bf-5671bc23c831)
+
+
 
 After successfully installing app it will show an interface like this 
 
-![Github Apps Setup 4](https://github.com/user-attachments/assets/7d8773c7-056f-4cf8-881d-b661ea3522ba)
+![Github Apps Setup 4](https://github.com/user-attachments/assets/1b2915e1-ac53-41bc-ad91-e6921fa381e8)
+
 
 Click on App Settings 
 
@@ -83,7 +86,7 @@ Homepage URL: http://localhost:3000
 Callback URL: http://localhost:7007/api/auth/github/handler/frame
 ```
 
-![Github Apps Setup 5](https://github.com/user-attachments/assets/a12cd9b1-c079-4c20-a8e0-ac5819355b4b)
+![Github Apps Setup 5](https://github.com/user-attachments/assets/783628ac-13a8-4787-926b-11a8329fbd39)
 
 After that click on the `save changes` button.
 
@@ -119,7 +122,8 @@ Environments: Read & write (if templates include GitHub Environments)
 ```
 Give all these permissions
 
-![Github Apps Setup 6](https://github.com/user-attachments/assets/e0d08fa4-105a-4185-a1bc-5adcf235586b)
+![Github Apps Setup 6](https://github.com/user-attachments/assets/eae01a87-790e-482d-85fc-3b74999a1e20)
+
 
 After that click on the `save changes` button.
 
@@ -129,11 +133,13 @@ Now go to settings of <your-org>
 
 It will ask you to review request for the updated permission
 
-![Github Apps Setup 7](https://github.com/user-attachments/assets/31d6cf2c-a7da-4d16-ac7d-f5f4ff64776f)
+![Github Apps Setup 7](https://github.com/user-attachments/assets/4b1993a9-ffe3-4b33-ac23-65463000dc53)
+
 
 Click on the `review request`.
 
-![Github Apps Setup](https://github.com/user-attachments/assets/992f4ef5-f079-46d3-852e-0aec9fd856bd)
+![Github Apps Setup](https://github.com/user-attachments/assets/f3c5f2ea-d1d4-41e7-a496-7569de7f54ed)
+
 
 Click on `Accept new permissions`.
 
